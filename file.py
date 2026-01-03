@@ -1,4 +1,4 @@
-print("Hola Peru") 
+print("Hola Mundo") 
 print("El mundo esta al reves")
 i=0
 for x in range(10):
@@ -6,4 +6,4 @@ for x in range(10):
     print(x," + ",i)
 
 z=i+x
-print("Esto es igual a "+z)
+print("El valor de es igual a "+z)
