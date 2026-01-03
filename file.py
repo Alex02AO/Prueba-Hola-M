@@ -1,4 +1,4 @@
-print("Hola mundo") 
+print("Hola Peru") 
 print("El mundo esta al reves")
 i=0
 for x in range(10):
